@@ -30,25 +30,8 @@
 	</form>
 
  	<script>
-//		var dataPor =   document.getElementById("data_in").value; ¯\_(ツ)_/¯
-		var from1 = new Date('2012-01-01');
-		var from2 = new Date('2015-01-02');
-		var from3 = new Date('2019-01-01');
-		var from4 = new Date('2050-01-01');
-		var to1 = new Date('2015-01-01');
-		var to2 = new Date('2018-12-31');
-		var to3 = new Date('2019-12-31');
-		var to4 = new Date('2015-10-10');
+//		 ¯\_(ツ)_/¯
 
-//		if (dataPor > from1) && (dataPor < to1) {
-//			var kto = "zanza";
-//		} else if (dataPor > from2) && (dataPor < to2) {
-//			var kto = "karol, urbun";
-//		} else if (dataPor > from3) && (dataPor < to3) {
-//			var kto = "alexbb, maciek3000, tomek";
-//		} else if (dataPor > from4) && (dataPor < to4) {
-//			var kto = "?";
-//		}
 
 		var kto = "coś bardzo mocno poszło nie tak";
 
